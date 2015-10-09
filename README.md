@@ -1,4 +1,4 @@
-# Bibliotecas-Display-Touch
+# Bibliotecas Display Touch 2.4 Arduino
 
 Bibliotecas para utilização com o exemplo do Display TFT Shield do Blog FILIPEFLOP
 
